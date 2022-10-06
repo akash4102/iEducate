@@ -6,8 +6,11 @@
 html{
     scroll-behavior: smooth;
 } 
+.for-up-gap{
+    padding-bottom: 30px;
+}
 .logo{
-    width: 20%;
+    width: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
