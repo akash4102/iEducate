@@ -6,9 +6,6 @@
 html{
     scroll-behavior: smooth;
 } 
-.for-up-gap{
-    padding-bottom: 30px;
-}
 .logo{
     width: 10%;
     display: flex;
