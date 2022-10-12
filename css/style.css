@@ -51,3 +51,24 @@ body{
     position: absolute;
     background-color: lightslategray;
 }
+.flex{
+    font-size:xx-large;
+    text-align: center;
+}
+.h-40{
+    border-radius: 10rem;
+    height: 14rem;
+    width: auto;
+}
+#facebook{
+    margin: 0.5rem;
+}
+#twitter{
+    margin: 0.5rem;
+}
+#instagram{
+    margin: 0.5rem;
+}
+#github{
+    margin: 0.5rem;
+}
