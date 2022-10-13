@@ -1,56 +1,3 @@
-*{
-    box-sizing: border-box;
-}
-body{
-    margin: 0;
-    padding: 0;
-    height: 400vh;
-}
-.courses{
-    width: 30rem;
-    height: 20rem;
-}
-.course-card-1{
-    background-color: lightblue;
-    position: absolute;
-}
-.course-card-2{
-    position: absolute;
-    background-color: lightcoral;
-    top: 9.1rem;
-    left: 31rem;
-}
-.course-card-3{
-    position: absolute;
-    background-color: lightgreen;
-    top: 30rem;
-}
-.course-card-4{
-    position: absolute;
-    background-color: lightsalmon;
-    top: 30rem;
-    left: 31rem;
-}
-.course-card-5{
-    position: absolute;
-    background-color: lightgray;
-}
-.course-card-6{
-    position: absolute;
-    background-color: lightgoldenrodyellow;
-}
-.course-card-7{
-    position: absolute;
-    background-color: lightpink;
-}
-.course-card-8{
-    position: absolute;
-    background-color: lightskyblue;
-}
-.course-card-9{
-    position: absolute;
-    background-color: lightslategray;
-}
 .flex{
     font-size:xx-large;
     text-align: center;
@@ -68,7 +15,19 @@ body{
 }
 #instagram{
     margin: 0.5rem;
+
 }
 #github{
     margin: 0.5rem;
 }
+.col{
+    display: flex;
+}
+.card-img-top{
+    height: 20rem;
+}
+/* .card-text{
+    display: flex;
+    align-items: stretch;
+    align-content: stretch;
+} */
