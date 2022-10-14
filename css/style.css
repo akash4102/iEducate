@@ -26,8 +26,7 @@
 .card-img-top{
     height: 20rem;
 }
-/* .card-text{
+.bd-placeholder-img{
     display: flex;
     align-items: stretch;
-    align-content: stretch;
-} */
+}
