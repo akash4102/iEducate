@@ -35,3 +35,9 @@
     display: flex;
     justify-content: stretch;
 }
+.home-img{
+    display: flex;
+    flex-direction: row;
+    height: 30rem;
+    width: 40%;
+}
