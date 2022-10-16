@@ -35,9 +35,17 @@
     display: flex;
     justify-content: stretch;
 }
-.home-img{
+.home-div{
     display: flex;
     flex-direction: row;
-    height: 30rem;
-    width: 40%;
+}
+.home-content{
+    display: flex;
+    height: 50%;
+    width:50%;
+}
+.home-img{
+    display: flex;
+    width: 50%;
+    border-radius: 10rem;
 }
